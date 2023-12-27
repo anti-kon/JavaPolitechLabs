@@ -1,0 +1,12 @@
+To use this program, follow these steps:
+   1. Clone this repository to your device
+   2. Build the application (you can read build.txt to get instructions)
+   3. Run the application
+      for example (in directory there application was build):
+         java Main
+         java Main [ --c | --d] [input_file] [output_file]
+         java Main [ --i] [input_file]
+
+         --c - run program in code mode
+         --d - run program in decode mode
+         --i - run program in info mode

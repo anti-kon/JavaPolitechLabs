@@ -1,0 +1,8 @@
+To build this program follow the following steps:
+   1. Make sure you have JDK 17 or later installed
+      (otherwise you will need to install this, for example you can use the official Oracle website
+       https://www.oracle.com/cis/java/technologies/downloads/)
+   2. Navigate to a copy of this repository on your device
+   3. Compile the java file containing the main function
+      for example:
+         javac .\Main.java
